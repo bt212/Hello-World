@@ -4,7 +4,5 @@
  * Author: Agai
  * QQ: 295551092
  * Date: 2016/6/14
- * Time: 14:18
+ * Time: 14:30
  */
-
-echo 'hello world!';
